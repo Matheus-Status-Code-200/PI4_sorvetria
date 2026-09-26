@@ -90,3 +90,4 @@ O Backend diponibiliza rotas simples e diretas para integrar o hardware da loja:
 * O sistema envia um sinal de ativação para a placa quando o atendente clica em *"Marcar como Pronto"*.
 
 ---
+# PI4_sorvetria
